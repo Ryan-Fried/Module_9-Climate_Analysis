@@ -21,6 +21,6 @@ Below are the June and December summaries, respectively:
 
 Overall, the surf shop seems like a viable year round business given the warm temperatures in both June and December. Though the results of this query are likely representative of the whole, they may not provide enough information to fully determine the year round viability of the business. 
 
-- break down of the data with a line graph or bar graph by year - to determine longer term trends (ex. is Oahu generally getting warmer or cooler?, how much variation is there in temperature year to year?)
+One further step I would take to develop a fuller understanding of the data would be to create either a bar or line graph to chart the average temperature of June and December of each year over the course of multiple years. This chart would aid in visualizing longer term temperature trends to answer such questions as "Is Oahu generally getting warmer or getting cooler?" and "How much variation is there in temperature from one year to the next?". Breaking down the summary statistics by year will help to determine the long term viability of the business by revleaing long term temperature trends, as opposed to the seasonal differences between June and December.
 
-- 
+We could query additional meteorological factors for June and Decemeber in addition to temperature in order to develop a more comprehensive understanding of how the months and seasons compare to each other. These other factors could include precpiation, wind, and any other factors available in the SQLite file. We could also run this analysis on other months to fill in gaps and project which months may be more or less profitable.
