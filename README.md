@@ -12,8 +12,15 @@ There is a quite a wide range of recorded temperatures reported within each mont
 
 As one would expect, June on average is slightly warmer than December, although both months are quite warm. 50% of June temperatures fall between 73 and 77 degrees, while 50% of December temperatures fall between 69 and 74 degrees.
 
+Below are the June and December summaries, respectively:
+
+![Screenshot (92)](https://user-images.githubusercontent.com/91569387/144791528-a4908a2a-879e-428a-9949-977ed6a8ed5e.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/91569387/144791540-c8405b93-0d71-4f91-ad39-06ab32686759.png)
+
 # Summary
 
 Overall, the surf shop seems like a viable year round business given the warm temperatures in both June and December. Though the results of this query are likely representative of the whole, they may not provide enough information to fully determine the year round viability of the business. 
 
 - break down of the data with a line graph or bar graph by year - to determine longer term trends (ex. is Oahu generally getting warmer or cooler?, how much variation is there in temperature year to year?)
+
+- 
